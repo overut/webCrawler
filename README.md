@@ -6,7 +6,7 @@
 ## appleCrawler
 现在多数网页在检索信息时，初始只提供少量的信息，需要通过滚轮获取数据</br>
 F12进入开发者模式:</br>
-![Image text](webCrawler/img_folder/TIM截图20180929171616.png)</br>
+![Image text](https://github.com/overut/webCrawler/blob/master/img_folder/TIM%E6%88%AA%E5%9B%BE20180929171616.png)</br>
 可以发现滚轮其实触发的是新的一次http请求，查看请求参数，模拟参数pn每次递增30，ic表示过滤颜色..其他自己去试吧~
 ## fruitsCrawler
 类似appleCrawler
